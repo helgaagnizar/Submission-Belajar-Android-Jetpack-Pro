@@ -1,0 +1,86 @@
+1. Unit Testing
+    DetailViewModelTest :
+                                  - memastikan ada perubahan data movie di dalam LiveData sesuai yang diharapkan
+                                  - memastikan data favorite movie yang telah di set masuk ke dalam penyimpanan
+                                  - memastikan ada perubahan data tvshow di dalam LiveData sesuai yang diharapkan
+                                  - memastikan data favorite tvshow yang telah di set masuk ke dalam penyimpanan
+
+    FavViewModelTest  :
+                        - movie
+                                  - memastikan data favorite movie yang ada sesuai dengan yang diharapkan
+                                  - melakukan pengecekan data favorite movie apakah null atau tidak
+                                  - membandingkan data favorite movie sudah sesuai dengan yang diharapkan atau tidak
+                                  - memastikan data favorite movie yang telah di set masuk ke dalam penyimpanan
+                        - tvshow
+                                  - memastikan data favorite tvshow yang ada sesuai dengan yang diharapkan
+                                  - melakukan pengecekan data favorite tvshow apakah null atau tidak
+                                  - membandingkan data favorite tvshow sudah sesuai dengan yang diharapkan atau tidak
+                                  - memastikan data favorite tvshow yang telah di set masuk ke dalam penyimpanan
+
+    MovieViewModelTest :
+                                  - memanipulasi data ketika pemanggilan data movie di kelas repository
+                                  - memastikan metode di kelas repository terpanggil
+                                  - melakukan pengecekan data movie apakah null atau tidak
+                                  - melakukan pengecekan jumlah data movie apakah sudah sesuai atau belum
+                                  - memastikan ada perubahan data di dalam LiveData sesuai yang diharapkan
+
+    TvViewModelTest :
+                                  - memanipulasi data ketika pemanggilan data tvshow di kelas repository
+                                  - memastikan metode di kelas repository terpanggil
+                                  - melakukan pengecekan data tvshow apakah null atau tidak
+                                  - melakukan pengecekan jumlah data tvshow apakah sudah sesuai atau belum
+                                  - memastikan ada perubahan data di dalam LiveData sesuai yang diharapkan
+
+    MovieTvshowReposotoryTest :
+                                  - memastikan data movie yang ada sesuai yang diharapkan
+                                  - melakukan pengecekan data movie apakah null atau tidak
+                                  - membandingkan data movie sudah sesuai dengan yang diharapkan atau tidak
+                                  - memastikan data favorite movie yang ada sesuai dengan yang diharapkan
+                                  - melakukan pengecekan data favorite movie apakah null atau tidak
+                                  - membandingkan data favorite movie sudah sesuai dengan yang diharapkan atau tidak
+                                  - memastikan data favorite movie update sesuai dengan yang diharapkan
+
+                                  - memastikan data tvshow yang ada sesuai yang diharapkan
+                                  - melakukan pengecekan data tvshow apakah null atau tidak
+                                  - membandingkan data tvshow sudah sesuai dengan yang diharapkan atau tidak
+                                  - memastikan data favorite tvshow yang ada sesuai dengan yang diharapkan
+                                  - melakukan pengecekan data favorite tvshow apakah null atau tidak
+                                  - membandingkan data favorite tvshow sudah sesuai dengan yang diharapkan atau tidak
+                                  - memastikan data favorite tvshow update sesuai dengan yang diharapkan
+
+
+2. Instrumental Testing
+        - MOVIE
+            - memastikan rv_movie dalam keadaan tampil
+            - menampilkan tindakan klik pada data pertama di rv_movie
+            - memastikan textView untuk title tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk genre tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk director tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk overview tampil sesuai dengan yang diharapkan
+            - memastikan tindakan klik pada tombol favorite
+            - memastikan kembali ke halaman awal
+            - memastikan tindakan klik pada menu favorite
+            - memastikan rv_movie favorite dalam keadaan tampil
+            - menampilkan tindakan klik pada data pertama di rv_movie favorite
+            - memastikan tindakan klik pada tombol favorite( batal favorite)
+            - memastikan kembali ke halaman favorite
+            - memastikan kembali ke halaman awal
+            - memastikan tindakan klik lagi pada menu favorite
+
+        - TV SHOW
+            - memastikan rv_tv dalam keadaan tampil
+            - menampilkan tindakan klik pada data pertama di rv_tv
+            - memastikan textView untuk title tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk genre tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk creator tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk overview tampil sesuai dengan yang diharapkan
+            - memastikan tidakan klik pada tombol favorite
+            - memastikan kembali ke halaman awal
+            - memastikan tindakan klik pada menu favorite
+            - memastikan rv_tv favorite dalam keadaan tampil
+            - menampilkan tindakan klik pada data pertama di rv_tv favorite
+            - memastikan tindakan klik pada tombol favorite ( batal favorite)
+            - memastikan kembali ke halaman favorite
+            - memastikan kembali ke halaman awal
+            - memastikan tindakan klik lagi pada menu favorite
+            - memastikan rv_tv favorite dalam keadaan tampil

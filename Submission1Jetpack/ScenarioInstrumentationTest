@@ -1,0 +1,31 @@
+1. Unit Testing
+    DetailViewModelTest :
+                          - memastikan data movie tidak null
+                          - memastikan data movie sesuai dengan yang diharapkan
+                          - memastikan data tvshow tidak null
+                          - memastikan data tvshow sesuai dengan yang diharapkan
+
+    MovieViewModelTest :
+                          - memastikan data movie tidak null
+                          - memastikan jumlah data movie sesuai dengan yang diharapkan
+
+
+    TvViewModelTest :
+                          - memastikan data tvshow tidak null
+                          - memastikan jumlah data tvshow sesuai dengan yang diharapkan
+
+2. Instrumental Testing
+        - MOVIE
+            - memastikan rv_movie dalam keadaan tampil
+            - menampilkan tindakan klik pada data pertama di rv_movie
+            - memastikan textView untuk title tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk genre tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk director tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk overview tampil sesuai dengan yang diharapkan
+        - TV SHOW
+            - memastikan rv_tv dalam keadaan tampil
+            - menampilkan tindakan klik pada data pertama di rv_tv
+            - memastikan textView untuk title tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk genre tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk creator tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk overview tampil sesuai dengan yang diharapkan

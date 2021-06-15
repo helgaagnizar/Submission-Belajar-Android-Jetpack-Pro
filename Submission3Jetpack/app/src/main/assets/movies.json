@@ -1,0 +1,104 @@
+﻿{
+  "movies": [
+    {
+      "movieId": "f1",
+      "title": "Alita: Battle Angel",
+      "genre": "Action, Science, Fiction, Adventure",
+      "director": "Robert Rodriguez",
+      "year": "2019",
+      "screenplay": "Laeta Kalogridis, James Cameron",
+      "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg"
+    },
+    {
+      "movieId": "f2",
+      "title": "Bohemian Rhapsody",
+      "genre": "Music, Drama, History",
+      "director": "Bryan Singer",
+      "year": "2018",
+      "screenplay": "Anthony McCarten",
+      "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg"
+    },
+    {
+      "movieId": "f3",
+      "title": "Cold Pursuit",
+      "genre": "Action, Crime, Thriller",
+      "director": "Hans Petter Moland",
+      "year": "2019",
+      "screenplay": "Frank Baldwin",
+      "overview": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg"
+    },
+    {
+      "movieId": "f4",
+      "title": "Creed II",
+      "genre": "Drama",
+      "director": "Steve Caple Jr.",
+      "year": "2018",
+      "screenplay": "Sylvester Stallone",
+      "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg"
+    },
+    {
+      "movieId": "f5",
+      "title": "Glass",
+      "genre": "Thriller, Drama, Science Fiction",
+      "director": "M. Night Shyamalan",
+      "year": "2019",
+      "screenplay": "M. Night Shyamalan",
+      "overview": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg"
+    },
+    {
+      "movieId": "f6",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "genre": "Animation, Family, Adventure",
+      "director": "Dean DeBlois",
+      "year": "2019",
+      "screenplay": "Dean DeBlois",
+      "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+    },
+    {
+      "movieId": "f7",
+      "title": "Avengers: Infinity War",
+      "genre": "Adventure, Action, Science Fiction",
+      "director": "Anthony Russo, Joe Russo",
+      "year": "2018",
+      "screenplay": "Stephen McFeely, Christopher Markus",
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+    },
+    {
+      "movieId": "f8",
+      "title": "Mortal Engines",
+      "genre": "Adventure, Cience Fiction",
+      "director": "Christian River",
+      "year": "2018",
+      "screenplay": "Peter Jackson, Fran Walsh, Philippa Boyens",
+      "overview": "Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg"
+    },
+    {
+      "movieId": "f9",
+      "title": "Overlord",
+      "genre": "Horror, War, Science Fiction",
+      "director": "Julius Avery",
+      "year": "2018",
+      "screenplay": "Billy Ray, Mark L. Smith",
+      "overview": "France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg"
+    },
+    {
+      "movieId": "f10",
+      "title": "T-34",
+      "genre": "War, Action, Drama, History",
+      "director": "Alexey Sidorov",
+      "year": "2018",
+      "screenplay": "Alexey Sidorov",
+      "overview": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jqBIHiSglRfNxjh1zodHLa9E7zW.jpg"
+    }
+  ]
+}

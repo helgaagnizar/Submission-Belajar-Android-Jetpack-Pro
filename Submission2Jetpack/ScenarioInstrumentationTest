@@ -1,0 +1,59 @@
+1. Unit Testing
+    DetailViewModelTest :
+                                  - memanipulasi data ketika pemanggilan data movie di kelas repository
+                                  - memastikan metode di kelas repository terpanggil
+                                  - melakukan pengecekan data movie apakah null atau tidak
+                                  - membandingkan data movie sudah sesuai dengan yang diharapkan atau tidak
+                                  - memastikan ada perubahan data di dalam LiveData sesuai yang diharapkan
+
+                                  - memanipulasi data ketika pemanggilan data tvshow di kelas repository
+                                  - memastikan metode di kelas repository terpanggil
+                                  - melakukan pengecekan data tvshow apakah null atau tidak
+                                  - membandingkan data tvshow sudah sesuai dengan yang diharapkan atau tidak
+                                  - memastikan ada perubahan data di dalam LiveData sesuai yang diharapkan
+
+    MovieViewModelTest :
+                                  - memanipulasi data ketika pemanggilan data movie di kelas repository
+                                  - memastikan metode di kelas repository terpanggil
+                                  - melakukan pengecekan data movie apakah null atau tidak
+                                  - melakukan pengecekan jumlah data movie apakah sudah sesuai atau belum
+                                  - memastikan ada perubahan data di dalam LiveData sesuai yang diharapkan
+
+    TvViewModelTest :
+                                  - memanipulasi data ketika pemanggilan data tvshow di kelas repository
+                                  - memastikan metode di kelas repository terpanggil
+                                  - melakukan pengecekan data tvshow apakah null atau tidak
+                                  - melakukan pengecekan jumlah data tvshow apakah sudah sesuai atau belum
+                                  - memastikan ada perubahan data di dalam LiveData sesuai yang diharapkan
+
+    MovieTvshowReposotoryTest :
+                                  - memastikan data movie yang ada di dalam Livedata sesuai yang diharapkan
+                                  - melakukan pengecekan data movie apakah null atau tidak
+                                  - melakukan pengecekan data movie(image) apakah null atau tidak
+                                  - melakukan pengecekan data movie(title) apakah null atau tidak
+                                  - melakukan pengecekan data movie(overview) apakah null atau tidak
+                                  - membandingkan data movie sudah sesuai dengan yang diharapkan atau tidak
+
+                                  - memastikan data tvshow yang ada di dalam Livedata sesuai yang diharapkan
+                                  - melakukan pengecekan data tvshow apakah null atau tidak
+                                  - melakukan pengecekan data tvshow(image) apakah null atau tidak
+                                  - melakukan pengecekan data tvshow(title) apakah null atau tidak
+                                  - melakukan pengecekan data tvshow(overview) apakah null atau tidak
+                                  - membandingkan data tvshow sudah sesuai dengan yang diharapkan atau tidak
+
+
+2. Instrumental Testing
+        - MOVIE
+            - memastikan rv_movie dalam keadaan tampil
+            - menampilkan tindakan klik pada data pertama di rv_movie
+            - memastikan textView untuk title tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk genre tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk director tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk overview tampil sesuai dengan yang diharapkan
+        - TV SHOW
+            - memastikan rv_tv dalam keadaan tampil
+            - menampilkan tindakan klik pada data pertama di rv_tv
+            - memastikan textView untuk title tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk genre tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk creator tampil sesuai dengan yang diharapkan
+            - memastikan textView untuk overview tampil sesuai dengan yang diharapkan

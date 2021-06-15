@@ -1,0 +1,94 @@
+﻿{
+  "tvshows": [
+    {
+      "tvshowId": "tv1",
+      "title": "Arrow",
+      "genre": "Crime, Drama, Mystery, Action & Adventure",
+      "creator": "Greg Berlanti, Marc Guggenheim, Andrew KreisBerg",
+      "year": "2012",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
+    },
+    {
+      "tvshowId": "tv2",
+      "title": "Doom Patrol",
+      "genre": "Sci-Fi & Fantasy, Comedy, Drama",
+      "creator": "Jeremy Carver",
+      "year": "2019",
+      "overview": "The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/drlfSCIlMKrEeMPhi8pqY4xGxj.jpg"
+    },
+    {
+      "tvshowId": "tv3",
+      "title": "Family Guy",
+      "genre": "Animation, Comedy",
+      "creator": "Seth MacFarlane",
+      "year": "1999",
+      "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eWWCRjBfLyePh2tfZdvNcIvKSJe.jpg"
+    },
+    {
+      "tvshowId": "tv4",
+      "title": "Gotham",
+      "genre": "Drama, Crime, Sci-Fi & Fantasy",
+      "creator": "Bruno Heller",
+      "year": "2014",
+      "overview": "Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg"
+    },
+    {
+      "tvshowId": "tv5",
+      "title": "Grey's Anatomy",
+      "genre": "Drama",
+      "creator": "Shonda Rhimes",
+      "year": "2005",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg"
+    },
+    {
+      "tvshowId": "tv6",
+      "title": "The Flash",
+      "genre": "Drama, Sci-Fi & Fantasy",
+      "creator": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+      "year": "2014",
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg"
+    },
+    {
+      "tvshowId": "tv7",
+      "title": "NCIS",
+      "genre": "Crime, Action & Adeventure, Drama",
+      "creator": "Donald P.Bellisarion, Don McGill",
+      "year": "2003",
+      "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fi8EvaWtL5CvoielOjjVvTr7ux3.jpg"
+    },
+    {
+      "tvshowId": "tv8",
+      "title": "Riverdale",
+      "genre": "Mystery, Drama, Crime",
+      "creator": "Robert Aguirre-Sacasa",
+      "year": "2017",
+      "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg"
+    },
+    {
+      "tvshowId": "tv9",
+      "title": "Supernatural",
+      "genre": "Drama, Mystery, Sci-Fi & Fantasy",
+      "creator": "eris Kripke",
+      "year": "2005",
+      "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg"
+    },
+    {
+      "tvshowId": "tv10",
+      "title": "The Simpsons",
+      "genre": "Family, Animation, Comedy",
+      "creator": "Matt Groening",
+      "year": "1989",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IWouZK4gkgHhJa3oyYuSWfSqbG.jpg"
+    }
+  ]
+}
